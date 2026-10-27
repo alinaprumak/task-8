@@ -1,5 +1,4 @@
 # task-8
-
 #include <iostream>
 using namespace std;
 
